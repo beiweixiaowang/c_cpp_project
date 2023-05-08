@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion/ke_she/erchashu/AVL.cpp
+AVL.h
+D:/Clion/ke_she/erchashu/AVL.h
+
+D:/Clion/ke_she/erchashu/AVL.h
+iostream
+-
+cmath
+-
+iomanip
+-
+

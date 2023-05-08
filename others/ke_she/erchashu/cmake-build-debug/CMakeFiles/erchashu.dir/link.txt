@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\erchashu.dir/objects.a
+D:\MinGW\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\erchashu.dir/objects.a @CMakeFiles\erchashu.dir\objects1.rsp
+D:\MinGW\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\erchashu.dir/objects.a -Wl,--no-whole-archive  -o erchashu.exe -Wl,--out-implib,liberchashu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\erchashu.dir\linklibs.rsp

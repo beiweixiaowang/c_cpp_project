@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion/ke_she/huffman/huff.cpp
+huff.h
+D:/Clion/ke_she/huffman/huff.h
+
+D:/Clion/ke_she/huffman/huff.h
+cstdio
+-
+cstdlib
+-
+Windows.h
+-
+conio.h
+-
+cmath
+-
+ctime
+-
+

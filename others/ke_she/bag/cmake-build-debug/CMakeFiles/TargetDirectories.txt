@@ -1,0 +1,3 @@
+D:/Clion/ke_she/bag/cmake-build-debug/CMakeFiles/bag.dir
+D:/Clion/ke_she/bag/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/ke_she/bag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
